@@ -6,6 +6,8 @@ body {
   font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
   padding: 40px;
   background-color: #eae2b7;
+  align-content: center;
+  margin: auto;
 }
 
 a:link {
