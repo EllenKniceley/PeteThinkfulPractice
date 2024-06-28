@@ -3,4 +3,4 @@
 <br />
 All text and photos are provided by Chegg Skills.<br />
 <br />
-If you have any feedback on how I can improve, please let me know!
+It is a simple webpage consisting of just HTML and CSS, with images for the page located in the images folder.
