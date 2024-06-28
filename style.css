@@ -17,6 +17,11 @@ a:hover{
   color: #f77f00
 }
 
+/* Nav spacing */ 
+nav a{
+  padding: 20px;
+}
+
 /* Set the font family for any h1, h2, or h3 heading */
 h1,
 h2,
