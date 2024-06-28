@@ -7,10 +7,9 @@ body {
   padding: 40px;
   background-color: #eae2b7;
   width: 600px;
-  text-align: center;
   margin: auto;
 }
-
+/* link color */
 a:link {
   color: #d62828;
 }
@@ -24,7 +23,7 @@ h2,
 h3 {
   font-family: "Playfair Display", Times, serif;
 }
-
+/* Article text formatting */
 article {
   padding: 50px 0;
 }
@@ -34,16 +33,34 @@ article div {
   width: 100%;
 }
 
-p {
+article p {
   text-align: left;
   line-height: 1.5;
 }
 
+article h2 {
+  font-size: 30px;
+}
+
+article h3 {
+  font-size: 20px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+/* List formatting */
 ul {
   text-align: left;
-
-
 }
+
+ol {
+  text-align: left;
+}
+
+/* header and footer formatting */
 header {
   text-align: center;
 }
@@ -51,6 +68,10 @@ header {
 footer {
   display: block;
   margin: 0 auto;
+  text-align: center;
+}
+
+contact-header {
   text-align: center;
 }
 
@@ -70,7 +91,7 @@ hr {
   border: 1px solid black;
 }
 
-/* Add your solution below */
+/* Make profile pic a circle */
 
 .image-circle {
   border-radius: 50%;
